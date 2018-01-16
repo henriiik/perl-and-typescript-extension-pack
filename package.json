@@ -1,0 +1,23 @@
+{
+    "name": "perl-and-typescript-extension-pack",
+    "displayName": "Perl And TypeScript Extension Pack",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "henriiik",
+    "engines": {
+        "vscode": "^1.19.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionDependencies": [
+        "eg2.tslint",
+        "esbenp.prettier-vscode",
+        "hbenl.vscode-firefox-debug",
+        "henriiik.docker-linter",
+        "henriiik.vscode-perl",
+        "henriiik.vscode-sort",
+        "ms-vscode.typescript-javascript-grammar",
+        "msjsdiag.debugger-for-chrome"
+    ]
+}
